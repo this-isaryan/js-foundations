@@ -23,7 +23,7 @@ s and t consist of lowercase English letters. */
  * @return {boolean}
  */
 
-let s = "≈";
+let s = "anagram";
 let t = "nagaram";
 
 var isAnagram = function (s, t) {
