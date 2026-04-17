@@ -12,4 +12,4 @@ app.use(express.json());
 
 app.use("/api/workouts", workoutRoutes);
 
-app.listen(5000, () => console.log('server running'));
+app.listen(8080, () => console.log('server running'));
